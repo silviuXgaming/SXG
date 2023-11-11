@@ -1,4 +1,3 @@
-# SXG
 <p align="left"> </p>
 
 
